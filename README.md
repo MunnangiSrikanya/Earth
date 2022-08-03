@@ -11,3 +11,5 @@ With the advancement of technology, advanced equipment, better irrigation facili
 <img width="914" alt="ss4" src="https://user-images.githubusercontent.com/109782835/182639412-cf6ccb88-6ca2-4316-959e-b3a44dbf4df6.png">
 Contacts are provided as follows
 <img width="938" alt="ss5" src="https://user-images.githubusercontent.com/109782835/182639446-c54d030e-1132-4528-b846-d271c5d9ea4c.png">
+
+Link to the website: https://gray-ground-05e935e10.1.azurestaticapps.net
